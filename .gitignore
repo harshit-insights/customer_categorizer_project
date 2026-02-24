@@ -1,0 +1,10 @@
+customer_categorizer/Lib/
+customer_categorizer/Scripts/
+customer_categorizer/Include/
+customer_categorizer/share/
+customer_categorizer/etc/
+customer_categorizer/pyvenv.cfg
+customer_categorizer/.env
+.env
+_pycache_/
+*.pyc
